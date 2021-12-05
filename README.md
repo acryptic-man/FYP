@@ -1,2 +1,3 @@
-# FYP
-All about Final Year Project.
+# Auto Image Captioning Using Deep Learning
+Auto Image Captioning helps to generate the caption of an image. Automatically generated image captions offer a wide range of uses and have a major social influence.Visual description is difficult because it involves not just object recognition, but also the recognition of other visual aspects such as actions and characteristics, as well as the construction of fluid sentences that describe how objects, actions, and attributes are associated in a picture.
+The artefact of this project is it uses KERAS APIs which is used for creating complex models. Image is passed down to Convolutional Neural Network (CNN) which is used as an encoder and Recurrent Neural Network (RNN) as it is used as a decoder which gives us the suitable caption of an image
